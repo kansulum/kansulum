@@ -1,24 +1,5 @@
 <h1 align="center">Hi there, I'm Abdulraman Mohammed 👋</h1>
 
-<p align="center"> 
- <a href="https://twitter.com/iammukeshm" alt="mukesh's twitter">
-   <img src="https://img.shields.io/badge/-@iammukeshm-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
- </a>
- <a href="https://github.com/iammukeshm" alt="mukesh's github">
-   <img src="https://img.shields.io/badge/-@iammukeshm-%23181717?style=flat-square&logo=github" />
- </a>
- <a href="https://www.linkedin.com/in/iammukeshm" alt="mukesh's linkedin">
-   <img src="https://img.shields.io/badge/-iammukeshm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
- </a>
- <a href="https://codewithmukesh.com" alt="mukesh's blog">
-   <img src="https://img.shields.io/badge/codewithmukesh.com-brightgreen?style=flat-square" />
- </a>
- <a>
-   <img src="https://komarev.com/ghpvc/?username=iammukeshm&color=ff69b4&style=flat-square" />
- </a>
-</p>
-
-
 > I’m a software engineer specializing in building Web Applications. For the frontend I love building WebApplication using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
 > 
 > I am an active blogger too, where I share whatever I've learned. My Blog contains over 60 Detailed Articles (linked to Github Repositories) around Microsoft Technologies that brings me around 80,000 Monthly readers.
@@ -27,23 +8,18 @@
 
 I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.
 
-- 💥 [fullstackhero](https://github.com/fullstackhero/): Collection of Enterprise Level Boilerplates for Modern Web Applications that gets you started with premium application development in no-time!
-- 🛒 [Blazor Hero](https://github.com/blazorhero/CleanArchitecture): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
-- 📬 [Clean Architecture - WebApi Solution Template for ASP.NET Core](https://github.com/iammukeshm/CleanArchitecture.WebApi): An Implementation of Clean Architecture with ASP.NET Core 3.1 WebApi. With this Open-Source BoilerPlate Template, you will get access to the world of Loosely-Coupled and Inverted-Dependency Architecture in ASP.NET Core 3.1 WebApi with a lot of best practices.
+  lot of best practices.
 - 🥇 and tons of other repositories that are linked to each of my blogposts.
 
 
 #### 📙 My Popular Blog Posts
-- [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/)
-- [Modular Architecture in ASP.NET Core – Building Better Monoliths](https://codewithmukesh.com/blog/modular-architecture-in-aspnet-core/)
-- [Custom User Management in ASP.NET Core MVC with Identity](https://codewithmukesh.com/blog/user-management-in-aspnet-core-mvc/)
-- [Blazor CRUD using Entity Framework Core](https://codewithmukesh.com/blog/blazor-crud-with-entity-framework-core/)
-- [Blazor Hero – Clean Architecture Template Quick Start Guide](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/)
+- [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://medium.com/@abdulramanmohammed/detailed-onion-architecture-in-asp-net-core-with-cqrs-16a7c06bba1b)
+- [Modular Architecture in ASP.NET Core – Building Better Monoliths](https://medium.com/@abdulramanmohammed/detailed-onion-architecture-in-asp-net-core-with-cqrs-16a7c06bba1b)
 
 #### Trivia
-- 📝 I blog here: http://codewithmukesh.com/
-- 📫 Follow me on Twitter [@iammukeshm](https://twitter.com/iammukeshm) / [@codewithmukesh](https://twitter.com/codewithmukesh)
-- 🦸 Endorse me / Leave a Recommendation on Linkedin [@iammukeshm](https://www.linkedin.com/in/iammukeshm/)
+- 📝 I blog here:
+- 📫 Follow me on Twitter 
+- 🦸 Endorse me / Leave a Recommendation on Linkedin [@iammukeshm](https://www.linkedin.com/in/abdulrahmankancode/)
 - 🦸 Career Aim - Work for a cool Product company! 
 
 ---
