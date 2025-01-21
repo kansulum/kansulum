@@ -19,7 +19,7 @@ I always make sure that I find enough time for open source contribution that als
 #### Trivia
 - 📝 I blog here:
 - 📫 Follow me on Twitter 
-- 🦸 Endorse me / Leave a Recommendation on Linkedin [@iammukeshm](https://www.linkedin.com/in/abdulrahmankancode/)
+- 🦸 Endorse me / Leave a Recommendation on Linkedin [@abdulrahmankancode](https://www.linkedin.com/in/abdulrahmankancode/)
 - 🦸 Career Aim - Work for a cool Product company! 
 
 ---
@@ -65,6 +65,6 @@ I always make sure that I find enough time for open source contribution that als
 <br/>
 
 <p align="center">
-  <a href="#" alt="Abdulraman's github stats"><img src="https://github-readme-stats.vercel.app/api?username=kansulum" /></a>
+  <a href="#" alt="Abdulraman's github stats"><img src="https://github-readme-stats.vercel.app/api?username=iammukeshm" /></a>
 </p>
 
